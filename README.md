@@ -1,8 +1,8 @@
-## Your Name
+## William Lines
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm Will, an analytically minded recent Maths graduate looking for new opportunities in the world of tech. Having got a taste of coding and a good helping of logic and analysis in my maths degree, I am excitedly expanding my skillset with the aim of becoming a full time developer.
 
-## Projects
+## Projects (to be completed)
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -11,15 +11,12 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Shellfish Cow** (August 2021 to August 2022)  
+_Bar Staff_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+- High-pressure customer facing evironment demanding clear communication with customers and coworkers.
+- Having to perform tasks quickly and to a high standard while effectively managing time.
+- Trusted with opening and closing duties.
 
 ## Skills
 
@@ -36,24 +33,18 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Collaboration
 
-- Experience
-- Achievements
-- Evidence (STAR)
+- I have a breadth of collaborative experience working quickly and efficently as a team in my bar job, as well as long term group projects in my university degree creating and presenting a mock business plan.
+- [add pair programming at makers]
 
-#### Another Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Clear and concise communication is pivotal to fulfilling my roll as bar staff, having no problem taking and fulfilling orders in a buzzing, extremely busy environment. Took part in presenting projects in my university degree on many occasions, presenting to large and smaller audiences, taking and answering questions.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2022 to end_date) [to be completed]
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +53,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Bristol University (2017 to 2020)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bsc in Mathematics 2:2
 
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Building and upgrading my own PC.
