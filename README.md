@@ -4,10 +4,10 @@ I'm Will, an analytically minded recent Maths graduate looking for new opportuni
 
 ## Projects (to be completed)
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                                                                      | Tech/tools                               |
+| ---------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------- |
+| **Tipsy Tourist**            | A Website to plan your pub crawls, with a little culture injected along the way! | React, JavaScript, Node, Google Maps API |
+| **Something else worked on** | A webapp to do y.                                                                | Ruby                                     |
 
 ## Work Experience
 
@@ -32,7 +32,6 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
-
 #### Collaboration
 
 - I have a breadth of collaborative experience working quickly and efficently as a team in my bar job, as well as long term group projects in my university degree creating and presenting a mock business plan.
@@ -45,9 +44,10 @@ Clear and concise communication is pivotal to fulfilling my roll as bar staff, h
 ## Education
 
 #### Makers Academy (September 2022 to end_date) [to be completed]
+
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+- you might also mention aspects some other skills/knowledge listed below:
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -56,8 +56,6 @@ Clear and concise communication is pivotal to fulfilling my roll as bar staff, h
 #### Bristol University (2017 to 2020)
 
 - Bsc in Mathematics 2:2
-
-
 
 ## Hobbies
 
