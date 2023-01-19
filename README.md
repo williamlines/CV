@@ -70,5 +70,5 @@ _Bar Staff_
 ## Hobbies
 
 - Building and upgrading my own PC.
-- Cycling
+- :bike: I enjoy Mountain biking, and make sure I visit Bike Park Wales a few times a year
 - Hiking
