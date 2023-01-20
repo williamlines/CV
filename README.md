@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a logical and adaptive Full Stack Software Developer, and recent Maths Graduate with a knack for picking up new skills fast.
+I am a Full-Stack Developer who is both logical and able to adapt, and recent Maths Graduate with a knack for picking up new skills fast.
 
 After having a taste of coding in my degree, I knew that tech was the direction I needed to go. I am eagerly expanding my skill set to better prepare for an exciting career in tech!
 
@@ -28,10 +28,10 @@ After having a taste of coding in my degree, I knew that tech was the direction 
 
 ## Projects
 
-| Name                       | Description                                                                      | Tech/tools                                  |
-| -------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------- |
-| **Tipsy Tourist**          | A Website to plan your pub crawls, with a little culture injected along the way! | React, JavaScript, Node.js, Google Maps API |
-| **Bot Project (name TBD)** | A discord bot made for me and my friends on discord                              | Node.js                                     |
+| Name                       | Description                                                                        | Tech/tools                                  |
+| -------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------- |
+| **Tipsy Tourist**          | A Website to plan your pub crawls, with a touch of culture injected along the way! | React, JavaScript, Node.js, Google Maps API |
+| **Bot Project (name TBD)** | A discord bot made for me and my friends on discord                                | Node.js                                     |
 
 ## Work Experience
 
@@ -58,21 +58,23 @@ _Bar Staff_
 
 #### Collaboration
 
-- I have a breadth of collaborative experience working quickly and efficiently as a team in my bar job, as well as long term group projects in my university degree creating and presenting a mock business plan.
-- At makers I would frequently pair programme when building projects, this would make the process of creating code from scratch fly by!
-- Mobbing as a quick way to move past a blocker when working with a small team.
+- I have a breadth of collaborative experience working quickly and efficiently as a team in my bar job, as well as long term group projects in my university degree creating and presenting a business plan to mock investors.
+- While at Makers, I often engaged in pair programming while working on projects, this would make building code from scratch fly by!
+- Using mobbing as a quick solution to overcome obstacles when working in a small team.
 
 #### Communication
 
 - Clear and concise communication is pivotal to fulfilling my roll as bar staff, having no problem taking and fulfilling orders in a buzzing, extremely busy environment.
 - Took part in presenting projects in my university degree on many occasions, presenting to large and smaller audiences, taking and answering questions.
-- Knowledge sharing while working on a project at makers to foster a mutually beneficial culture of helping within a team.
+- Knowledge sharing while working on a project at makers to promote a culture of collaboration and mutual support within a team.
 
 #### Thrives in High-Pressure Environments
 
-- I had to fulfil orders quickly in a busy bar environment.
-- deadlines at university.
-- 8 days to build final project at makers from scratch and learning new technology at the same time.
+- At Makers I had 8 days to Brainstorm an idea, and build it whilst simultaneously learning new tech to make it work.
+
+<!-- - I had to fulfil orders quickly in a busy bar environment.
+- Deadlines at university.
+- 8 days to build final project at makers from scratch and learning new technology at the same time. -->
 
 ## Education
 
