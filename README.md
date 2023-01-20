@@ -8,7 +8,14 @@
 
 ## About Me
 
-<!-- I'm Will, an analytically minded recent Maths graduate looking for new opportunities in the world of tech. Having got a taste of coding and a good helping of logic and analysis in my maths degree, I am eagerly expanding my skill set and look forward to an exciting career in tech! -->
+I'm a logical and adaptive Full Stack Software Developer, and recent Maths Graduate with a knack for picking up new skills fast.
+
+After having a taste of coding in my degree, I knew that tech was the direction I needed to go. I am eagerly expanding my skill set to better prepare for an exciting career in tech!
+
+<!--[OLD] I'm Will, an analytically minded recent Maths graduate looking for new opportunities in the world of tech. Having got a taste of coding and a good helping of logic and analysis in my maths degree, I am eagerly expanding my skill set and look forward to an exciting career in tech! -->
+
+
+
 
 <!-- (to be completed) -->
 
