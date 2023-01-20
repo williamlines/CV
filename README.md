@@ -78,11 +78,11 @@ _Bar Staff_
 
 #### Makers Academy (September 2022 to January 2023)
 
-- Test-Driven Development
-- Object-Oriented Programming
-- SOLID Principles
-- Pair-Programming and Mobbing
-- Managing teams with Stand Ups, Retros and Agile
+- Test-Driven Development.
+- Object-Oriented Programming.
+- SOLID Principles.
+- Pair-Programming and Mobbing.
+- Managing teams with Stand Ups, Retros and using Agile with rotating Scrum Masters to manage Sprints.
 
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
@@ -94,7 +94,7 @@ _Bar Staff_
 
 #### Bristol University (2017 to 2020)
 
-- Bsc in Mathematics 2:2
+- Bsc in Mathematics 2:2.
 
 ## Hobbies
 
