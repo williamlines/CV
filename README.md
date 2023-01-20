@@ -40,7 +40,7 @@ _Bar Staff_
 
 - High-pressure customer facing environment demanding clear communication with customers and coworkers.
 - Having to perform tasks quickly and to a high standard while effectively managing time.
-- Trusted with opening and closing duties.
+- Trusted with opening and closing duties and running the bar alone.
 
 ## Skills
 
