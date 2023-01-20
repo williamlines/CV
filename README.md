@@ -1,6 +1,10 @@
-## William Lines
+<p align=center>
+ # William Lines
+  </p>
 
-I'm Will, an analytically minded recent Maths graduate looking for new opportunities in the world of tech. Having got a taste of coding and a good helping of logic and analysis in my maths degree, I am eagerly expanding my skill set and look forward to an exciting career in tech!
+## About Me
+
+<!-- I'm Will, an analytically minded recent Maths graduate looking for new opportunities in the world of tech. Having got a taste of coding and a good helping of logic and analysis in my maths degree, I am eagerly expanding my skill set and look forward to an exciting career in tech! -->
 
 <!-- (to be completed) -->
 
