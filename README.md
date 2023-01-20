@@ -1,6 +1,10 @@
-<p align=center>
- # William Lines
-  </p>
+<div align="center">
+
+# William Lines
+
+## williamlines42@gmail.com
+
+</div>
 
 ## About Me
 
