@@ -14,10 +14,17 @@ After having a taste of coding in my degree, I knew that tech was the direction 
 
 <!--[OLD] I'm Will, an analytically minded recent Maths graduate looking for new opportunities in the world of tech. Having got a taste of coding and a good helping of logic and analysis in my maths degree, I am eagerly expanding my skill set and look forward to an exciting career in tech! -->
 
-
-
-
 <!-- (to be completed) -->
+
+## Tech Stack
+
+- Javascript (Node.js, Express, React, Jest)
+- Ruby (Sinatra, RSpec)
+- MongoDB (MongoDB Atlas)
+- SQL (PostgreSQL, TablePlus)
+- HTML, CSS (Chakra UI)
+- AWS
+- Git, GitHub
 
 ## Projects
 
@@ -59,6 +66,7 @@ _Bar Staff_
 
 - Clear and concise communication is pivotal to fulfilling my roll as bar staff, having no problem taking and fulfilling orders in a buzzing, extremely busy environment.
 - Took part in presenting projects in my university degree on many occasions, presenting to large and smaller audiences, taking and answering questions.
+- Knowledge sharing while working on a project at makers to foster a mutually beneficial culture of helping within a team.
 
 #### Thrives in High-Pressure Environments
 
@@ -68,7 +76,13 @@ _Bar Staff_
 
 ## Education
 
-#### Makers Academy (September 2022 to end_date) [to be completed]
+#### Makers Academy (September 2022 to January 2023)
+
+- Test-Driven Development
+- Object-Oriented Programming
+- SOLID Principles
+- Pair-Programming and Mobbing
+- Managing teams with Stand Ups, Retros and Agile
 
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
