@@ -8,9 +8,9 @@
 
 ## About Me
 
-I am a Full-Stack Developer who is both logical and able to adapt, and recent Maths Graduate with a knack for picking up new skills fast.
-
-After having a taste of coding in my degree, I knew that tech was the direction I needed to go. I am eagerly expanding my skill set to better prepare for an exciting career in tech!
+A highly motivated Software Engineer with the capacity to produce high-quality, test driven code. I have worked with many different languages and frameworks, and learned them fast enough to deliver on a two week project.
+A background in Mathematics laying the groundwork for the logical and pragmatic mindset necessary to thrive as a Software Engineer, combined with a history of hospitality work has shaped me into a personable team member with a strong desire to share knowledge, and pair with other Developers. I am a valuable asset in making a team reach its goals.
+I find immense satisfaction in solving a hard problem- this was paramount to my success at University studying Maths, and is what drives my passion for technology.
 
 <!--[OLD] I'm Will, an analytically minded recent Maths graduate looking for new opportunities in the world of tech. Having got a taste of coding and a good helping of logic and analysis in my maths degree, I am eagerly expanding my skill set and look forward to an exciting career in tech! -->
 
@@ -41,6 +41,8 @@ _Bar Staff_
 - High-pressure customer facing environment demanding clear communication with customers and coworkers.
 - Having to perform tasks quickly and to a high standard while effectively managing time.
 - Trusted with opening and closing duties and running the bar alone.
+- Attention to detail when fulfilling an order to deliver a pleasant customer experience.
+- Adapting to fill multiple roles when the situation demands, for example waiting on a table when a server is not available.
 
 ## Skills
 
