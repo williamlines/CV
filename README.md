@@ -12,10 +12,6 @@ A highly motivated Software Engineer with the capacity to produce high-quality, 
 A background in Mathematics laying the groundwork for the logical and pragmatic mindset necessary to thrive as a Software Engineer, combined with a history of hospitality work has shaped me into a personable team member with a strong desire to share knowledge, and pair with other Developers. I am a valuable asset in making a team reach its goals.
 I find immense satisfaction in solving a hard problem- this was paramount to my success at University studying Maths, and is what drives my passion for technology.
 
-<!--[OLD] I'm Will, an analytically minded recent Maths graduate looking for new opportunities in the world of tech. Having got a taste of coding and a good helping of logic and analysis in my maths degree, I am eagerly expanding my skill set and look forward to an exciting career in tech! -->
-
-<!-- (to be completed) -->
-
 ## Tech Stack
 
 - Javascript (Node.js, Express, React, Jest)
@@ -58,14 +54,11 @@ _Bar Staff_
 
 -What was the result? -->
 
-#### Collaboration
+#### Collaboration and Communication
 
 - I have a breadth of collaborative experience working quickly and efficiently as a team in my bar job, as well as long term group projects in my university degree creating and presenting a business plan to mock investors.
-- While at Makers, I often engaged in pair programming while working on projects, this would make building code from scratch fly by!
+- Throughout my time at Makers, particularly the final project, I often engaged in pair programming whilst working on a project. This would make building code from scratch fly by, and allowed me to empathise and understand my work partner, resulting in better code.
 - Using mobbing as a quick solution to overcome obstacles when working in a small team.
-
-#### Communication
-
 - Clear and concise communication is pivotal to fulfilling my roll as bar staff, having no problem taking and fulfilling orders in a buzzing, extremely busy environment.
 - Took part in presenting projects in my university degree on many occasions, presenting to large and smaller audiences, taking and answering questions.
 - Knowledge sharing while working on a project at makers to promote a culture of collaboration and mutual support within a team.
@@ -73,7 +66,11 @@ _Bar Staff_
 #### Thrives in High-Pressure Environments
 
 - At Makers I had 8 days to Brainstorm an idea, and build it whilst simultaneously learning new tech to make it work.
-
+- <[Learn something quickly]>
+#### Attention to Detail
+- ....
+### Problem Solving 
+- .... talking through an example.
 <!-- - I had to fulfil orders quickly in a busy bar environment.
 - Deadlines at university.
 - 8 days to build final project at makers from scratch and learning new technology at the same time. -->
@@ -81,7 +78,7 @@ _Bar Staff_
 ## Education
 
 #### Makers Academy (September 2022 to January 2023)
-
+<[More Detail]>
 - Test-Driven Development.
 - Object-Oriented Programming.
 - SOLID Principles.
@@ -97,7 +94,7 @@ _Bar Staff_
 - RSpec, Jasmine -->
 
 #### Bristol University (2017 to 2020)
-
+<[More Detail Here]>
 - Bsc in Mathematics 2:2.
 
 ## Hobbies
