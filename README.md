@@ -8,8 +8,10 @@
 
 ## About Me
 
-A highly motivated Software Engineer with the capacity to produce high-quality, test driven code. I have worked with many different languages and frameworks, and learned them fast enough to deliver on a two week project.\
-A background in Mathematics laying the groundwork for the logical and pragmatic mindset necessary to thrive as a Software Engineer, combined with a history of hospitality work has shaped me into a personable team member with a strong desire to share knowledge, and pair with other Developers. I am a valuable asset in making a team reach its goals.\
+A highly motivated Software Engineer with the capacity to produce high-quality, test driven code. I have worked with many different languages and frameworks, and learned them fast enough to deliver on a two week project.
+
+A background in Mathematics laying the groundwork for the logical and pragmatic mindset necessary to thrive as a Software Engineer, combined with a history of hospitality work has shaped me into a personable team member with a strong desire to share knowledge, and pair with other Developers. I am a valuable asset in making a team reach its goals.
+
 I find immense satisfaction in solving a hard problem- this was paramount to my success at University studying Maths, and is what drives my passion for technology.
 
 ## Tech Stack
