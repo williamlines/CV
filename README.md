@@ -62,7 +62,7 @@ _Bar Staff_
 <!-- WORK ON THIS ONE !! -->
 
 - For the Acebook project, I had to learn the MERN stack and use it to build an app from a basic codebase in only two weeks. Visualising the framework through diagramming helped me gain an understanding of how it functioned, and with the use of the React docs, and manipulating the bases existing code, delivered on the project.
-- <[thrives in high pressure environment]>
+- The final project was an 8 day sprint, in which we brainstormed an idea, learned new necessary technology, developed the project. The tight deadline served as a strong motivator for me to maintain clean code, and produce a product I was proud of.
 
 #### Attention to Detail
 
