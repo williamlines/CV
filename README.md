@@ -62,7 +62,8 @@ _Bar Staff_
 
 #### Attention to Detail
 
-- ....
+- I take the time to test drive new code. This ensure code is simple, DRY and readable with clear to understand variable names and responsibilities.
+- [Refactoring code]
 
 ### Problem Solving
 
@@ -72,13 +73,16 @@ _Bar Staff_
 
 #### Makers Academy (September 2022 to January 2023)
 
-Full-time Software Development course teaching:
+Full-time Software Development course.
 
-- Test-Driven Development, SOLID Principles and Object Oriented Programming.
-- Version Control using GitHub, the Model View Controller design architecture.
-- Pair Programming and Mobbing.
+- Test-Driven Development, mocking, unit and integration testing. 
+- SOLID Principles and Object Oriented Programming.
+- Agile principles, managing teams with Stand Ups, Retros and rotating Scrum Masters to manage Sprints.
+- Branch, Pull Request and merging git workflow. Running automatic tests on GitHub Actions.
+- Building Web Apps using react and the Model View Controller design architecture.
+- Pair Programming to build code, and Mobbing to squash bugs.
 - Collaboration, and knowledge sharing through slack channels and mentorship.
-- Agile principles, including teams with Stand Ups, Retros and rotating Scrum Masters to manage Sprints.
+- SQL and MongoDB database schemas.
 
 #### Bristol University (2017 to 2020)
 
