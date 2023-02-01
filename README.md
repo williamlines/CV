@@ -16,12 +16,16 @@ I find immense satisfaction in solving a hard problem- this was paramount to my 
 
 ## Tech Stack
 
-- Javascript (Node.js, Express, React, Jest)
+- Javascript
+  - Node.js
+  - Express
+  - Jest
+- React
 - Ruby (Sinatra, RSpec)
 - MongoDB (MongoDB Atlas)
 - SQL (PostgreSQL, TablePlus)
-- HTML, CSS (Chakra UI)
-- AWS
+- HTML, CSS (Chakra UI, Bootstrap)
+- AWS (Serverless, Terraform, Lambdas)
 - Git, GitHub
 
 ## Projects
@@ -75,7 +79,7 @@ _Bar Staff_
 
 Full-time Software Development course.
 
-- Test-Driven Development, mocking, unit and integration testing. 
+- Test-Driven Development, mocking, unit and integration testing.
 - SOLID Principles and Object Oriented Programming.
 - Agile principles, managing teams with Stand Ups, Retros and rotating Scrum Masters to manage Sprints.
 - Branch, Pull Request and merging git workflow. Running automatic tests on GitHub Actions.
