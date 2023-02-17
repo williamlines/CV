@@ -67,11 +67,11 @@ _Bar Staff_
 #### Attention to Detail
 
 - I take the time to test drive new code. This ensure code is simple, DRY and readable with clear to understand variable names and responsibilities.
-- [Refactoring code]
+- I see value in refactoring/restructuring code that is too long or obscure. When the Makers course finished I continued to work on out final project to restructure our main app file into a more clear and readable structure by isolating functions and react components. This readability makes code easier to work with, and more future-proof.
 
-### Problem Solving
+<!-- ### Problem Solving
 
-- .... talking through an example.
+- .... talking through an example. -->
 
 ## Education
 
