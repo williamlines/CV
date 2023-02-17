@@ -8,22 +8,24 @@
 
 ## About Me
 
-I am a Full-Stack Developer who is both logical and able to adapt, and recent Maths Graduate with a knack for picking up new skills fast.
+A highly motivated Software Engineer with the capacity to produce high-quality, test driven code. I have worked with many different languages and frameworks, and learned them fast enough to deliver on a two week project.
 
-After having a taste of coding in my degree, I knew that tech was the direction I needed to go. I am eagerly expanding my skill set to better prepare for an exciting career in tech!
+A background in Mathematics laying the groundwork for the logical and pragmatic mindset necessary to thrive as a Software Engineer, combined with a history of hospitality work has shaped me into a personable team member with a strong desire to share knowledge, and pair with other Developers. I am a valuable asset in making a team reach its goals.
 
-<!--[OLD] I'm Will, an analytically minded recent Maths graduate looking for new opportunities in the world of tech. Having got a taste of coding and a good helping of logic and analysis in my maths degree, I am eagerly expanding my skill set and look forward to an exciting career in tech! -->
-
-<!-- (to be completed) -->
+I find immense satisfaction in solving a hard problem- this was paramount to my success at University studying Maths, and is what drives my passion for technology.
 
 ## Tech Stack
 
-- Javascript (Node.js, Express, React, Jest)
+- Javascript
+  - Node.js
+  - Express
+  - Jest
+- React
 - Ruby (Sinatra, RSpec)
 - MongoDB (MongoDB Atlas)
 - SQL (PostgreSQL, TablePlus)
-- HTML, CSS (Chakra UI)
-- AWS
+- HTML, CSS (Chakra UI, Bootstrap)
+- AWS (Serverless, Terraform, Lambdas)
 - Git, GitHub
 
 ## Projects
@@ -38,65 +40,57 @@ After having a taste of coding in my degree, I knew that tech was the direction 
 **Shellfish Cow** ( 2021 to 2022)  
 _Bar Staff_
 
-- High-pressure customer facing environment demanding clear communication with customers and coworkers.
-- Having to perform tasks quickly and to a high standard while effectively managing time.
+- High-pressure customer facing environment demanding clear communication with customers and coworkers to provide quality service.
+- Having to perform tasks quickly and to a high standard while effectively managing time in order to keep the bar running smoothly.
 - Trusted with opening and closing duties and running the bar alone.
+- Attention to detail when fulfilling an order to deliver a pleasant customer experience.
+- Adapting to fill multiple roles when the situation demands, for example waiting on a table when a server is not available.
 
 ## Skills
 
-<!-- Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Collaboration and Communication
 
--STAR
--What was the situation/task? (ST)
+<!-- PICK THE BEST OF THESE!!! -->
 
--How was the skill used?
+- I have a breadth of collaborative experience working quickly and efficiently as a team in my bar job. Clear and concise communication was pivotal to fulfilling my role as a member of the team, having no problem taking and fulfilling orders in a buzzing, extremely busy environment.
+- I thrive in the Agile working environment. Project building was supported by running a self-enforced Agile style work environment with rotating scrum masters for each sprint. This practice facilitated the delivery of well produced key features, whilst preventing team burnout and conflict.
+- Throughout my time at Makers, particularly the final project, I often engaged in pair programming whilst working on a project. This would make building code from scratch fly by, and allowed me to empathise and understand my work partner, resulting in better code.
+- Using mobbing as a quick solution to overcome obstacles when working in a small team. This practice played a large role in the success of our final project, given the short duration of the development sprints.
+- Took part in presenting projects in my university degree on many occasions, presenting to large and smaller audiences, taking and answering questions. In one case we presented a business plan to a panel of mock investors and took questions. It was crucial to keep the presentation running smoothly for my answers to be quick, clear and concise.
+- Knowledge sharing while working on a project at makers to promote a culture of collaboration and mutual support within a team. An environment where everyone feels they can ask for help is a healthy and productive one, and another big contributor to my success in group work.
 
--What did you do? (action)
+#### Thrives in High-Pressure Environments and Fast Learner
 
--What was the result? -->
+- For the Acebook project, I had to learn the MERN stack and use it to build an app from a basic codebase in only two weeks. Visualising the framework through diagramming helped me gain an understanding of how it functioned, and with the use of the React docs, and manipulating the bases existing code, delivered on the project.
+- The final project was an 8 day sprint, in which we brainstormed an idea, learned new necessary technology, developed the project. The tight deadline served as a strong motivator for me to maintain clean code, and produce a product I was proud of.
 
-#### Collaboration
+#### Attention to Detail
 
-- I have a breadth of collaborative experience working quickly and efficiently as a team in my bar job, as well as long term group projects in my university degree creating and presenting a business plan to mock investors.
-- While at Makers, I often engaged in pair programming while working on projects, this would make building code from scratch fly by!
-- Using mobbing as a quick solution to overcome obstacles when working in a small team.
+- I take the time to test drive new code. This ensure code is simple, DRY and readable with clear to understand variable names and responsibilities.
+- I see value in refactoring/restructuring code that is too long or obscure. When the Makers course finished I continued to work on out final project to restructure our main app file into a more clear and readable structure by isolating functions and react components. This readability makes code easier to work with, and more future-proof.
 
-#### Communication
+<!-- ### Problem Solving
 
-- Clear and concise communication is pivotal to fulfilling my roll as bar staff, having no problem taking and fulfilling orders in a buzzing, extremely busy environment.
-- Took part in presenting projects in my university degree on many occasions, presenting to large and smaller audiences, taking and answering questions.
-- Knowledge sharing while working on a project at makers to promote a culture of collaboration and mutual support within a team.
-
-#### Thrives in High-Pressure Environments
-
-- At Makers I had 8 days to Brainstorm an idea, and build it whilst simultaneously learning new tech to make it work.
-
-<!-- - I had to fulfil orders quickly in a busy bar environment.
-- Deadlines at university.
-- 8 days to build final project at makers from scratch and learning new technology at the same time. -->
+- .... talking through an example. -->
 
 ## Education
 
 #### Makers Academy (September 2022 to January 2023)
 
-- Test-Driven Development.
-- Object-Oriented Programming.
-- SOLID Principles.
-- Pair-Programming and Mobbing.
-- Managing teams with Stand Ups, Retros and using Agile with rotating Scrum Masters to manage Sprints.
+Full-time Software Development course.
 
-<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below:
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine -->
+- Test-Driven Development, mocking, unit and integration testing.
+- SOLID Principles and Object Oriented Programming.
+- Agile principles, managing teams with Stand Ups, Retros and rotating Scrum Masters to manage Sprints.
+- Branch, Pull Request and merging git workflow. Running automatic tests on GitHub Actions.
+- Building Web Apps using react and the Model View Controller design architecture.
+- Pair Programming to build code, and Mobbing to squash bugs.
+- Collaboration, and knowledge sharing through slack channels and mentorship.
+- SQL and MongoDB database schemas.
 
 #### Bristol University (2017 to 2020)
 
-- Bsc in Mathematics 2:2.
+- Bsc in Mathematics.
 
 ## Hobbies
 
