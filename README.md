@@ -32,9 +32,9 @@ I find immense satisfaction in solving a hard problem- this was paramount to my 
 
 | Name                   | Description                                                                               | Tech/tools                                                  |
 | ---------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| **Tipsy Tourist**      | A Website to plan your pub crawls, with a touch of culture injected along the way!        | React, JavaScript, Node.js, Google Maps API                 |
-| **Bank Tech Test**     | A Test-Driven tech test example written in node                                           | Node.js                                                     |
-| **EV Mapping Project** | A tool to plan your Electric Vehicle journey's charging stops, using a serverless backend | React, JavaScript, Node.js, Mapbox, Serverless, AWS Lambdas |
+| [**Tipsy Tourist**](https://github.com/HOOLAHAN/tipsy-tourist)      | A Website to plan your pub crawls, with a touch of culture injected along the way!        | React, JavaScript, Node.js, Google Maps API                 |
+| [**Bank Tech Test**](https://github.com/williamlines/bank-tech-test)     | A Test-Driven tech test example written in node                                           | Node.js                                                     |
+| [**EV Mapping Project**](https://github.com/williamlines/ev-map-frontend) | A tool to plan your Electric Vehicle journey's charging stops, using a serverless backend | React, JavaScript, Node.js, Mapbox, Serverless, AWS Lambdas |
 
 ## Work Experience
 
